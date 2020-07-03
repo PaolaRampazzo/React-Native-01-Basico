@@ -17,6 +17,12 @@ const styles = StyleSheet.create({
      flex: 1,
      justifyContent: "center",
      alignItems: "center",
-     backgroundColor: '#f4e8c1',
+     backgroundColor: '#8FD8D2',
   },
 });
+// PEACH #FEDCD2
+// LEMON #DCB239
+// WARM #DF744A    destaque
+// POWDER #8FD8D2   fundo 
+// WHITE #ffffff
+// BLACK #000000
